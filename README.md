@@ -1,4 +1,4 @@
-**# Data-Extraction-and-Text-Analysis-using-NLP**
+**### Data-Extraction-and-Text-Analysis-using-NLP**
 ## Objective
 The primary goal of this project is to automate the extraction of textual data from specified URLs and to perform detailed textual analysis using Natural Language Processing (NLP) techniques. The extracted data is then used to compute various variables aimed at understanding the content’s structure and sentiment.
 ## Tools and Libraries Used
